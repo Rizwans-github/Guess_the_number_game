@@ -1,7 +1,7 @@
 *.python linguist-detectable=true
 *.ipynb linguist-detectable=false
 *.html linguist-detectable=false
-*.javascript linguist-detectable=false
+*.js linguist-detectable=false
 *.css linguist-detectable=false
 *.java linguist-detectable=false
 *.cpp linguist-detectable=false
