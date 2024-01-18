@@ -3,4 +3,8 @@
 *.html linguist-detectable=false
 *.js linguist-detectable=false
 *.css linguist-detectable=false
-*.c linguist-detectable=false
+*.java linguist-detectable=false
+*.c++ linguist-detectable=false
+*.php linguist-detectable=false
+*.ejs linguist-detectable=false
+*.scss linguist-detectable=false
